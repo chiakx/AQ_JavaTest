@@ -1,0 +1,1 @@
+insert into Users (WALLET_BALANCE) values(50000);
